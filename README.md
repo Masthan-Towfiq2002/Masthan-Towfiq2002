@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masthan-towfiq2002&label=Profile%20views&color=0e75b6&style=flat" alt="masthan-towfiq2002" /> </p>
 
-- 🌱 I’m currently Perusing **my 3rd Year B.Tech in SRM University AP.**
+- 🌱 I’m currently Perusing **my Final Year B.Tech in SRM University AP.**
 
 - 📫 How to reach me **towfiq_masthan@srmap.edu.in (or) towfiq.masthan@gmail.com**
 
